@@ -1,0 +1,86 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+<bitmap id="firstquar" filename="quar1.png" x = "center" dithering="none"/>
+<bitmap id="thirdquar" filename="quar3.png" x = "center" dithering="none"/>
+<bitmap id="newmoon" filename="new.png" x = "center" dithering="none"/>
+<bitmap id="full" filename="full.png" x = "center" dithering="none"/>
+<bitmap id="waxcres" filename="waxcres.png" x = "center" dithering="none"/>
+<bitmap id="wancres" filename="wancres.png" x = "center" dithering="none"/>
+<bitmap id="waxgib" filename="waxgib.png"  x = "center" dithering="none"/>
+<bitmap id="wangib" filename="wangib.png" x = "center" dithering="none"/>
+     <bitmap id="dog0" filename="pet0.png" dithering="none" />
+     <bitmap id="dog1" filename="pet1.png" dithering="none" />
+          <bitmap id="dog2" filename="pet2.png" dithering="none" />
+     <bitmap id="dog3" filename="pet3.png" dithering="none" />
+          <bitmap id="dog4" filename="pet4.png" dithering="none" />
+     <bitmap id="dog5" filename="pet5.png" dithering="none" />
+
+      <bitmap id="dog6" filename="pet6.png" dithering="none" />
+       <bitmap id="dog7" filename="pet7.png" dithering="none" />
+        <bitmap id="dog8" filename="pet8.png" dithering="none" />
+         <bitmap id="dog9" filename="pet9.png" dithering="none" />
+          <bitmap id="dog10" filename="pet10.png" dithering="none" />
+           <bitmap id="dog11" filename="pet11.png" dithering="none" />
+            <bitmap id="dog12" filename="pet12.png" dithering="none" />
+             <bitmap id="dog13" filename="pet13.png" dithering="none" />
+              <bitmap id="dog14" filename="pet14.png" dithering="none" />
+               <bitmap id="dog15" filename="pet15.png" dithering="none" />
+                <bitmap id="dog16" filename="pet16.png" dithering="none" />
+                 <bitmap id="dog17" filename="pet17.png" dithering="none" />
+                  <bitmap id="dog18" filename="pet18.png" dithering="none" />
+                   <bitmap id="dog19" filename="pet19.png" dithering="none" />
+                   <bitmap id="dog20" filename="pet20.png" dithering="none" />
+
+                   <bitmap id="dog21" filename="pet21.png" dithering="none" />
+            <bitmap id="dog22" filename="pet22.png" dithering="none" />
+             <bitmap id="dog23" filename="pet23.png" dithering="none" />
+              <bitmap id="dog24" filename="pet24.png" dithering="none" />
+               <bitmap id="dog25" filename="pet25.png" dithering="none" />
+                <bitmap id="dog26" filename="pet26.png" dithering="none" />
+                 <bitmap id="dog27" filename="pet27.png" dithering="none" />
+                  <bitmap id="dog28" filename="pet28.png" dithering="none" />
+                   <bitmap id="dog29" filename="pet29.png" dithering="none" />
+<bitmap id="dog30" filename="pet30.png" dithering="none" />
+           <bitmap id="dog31" filename="pet31.png" dithering="none" />
+
+<bitmap id="echo0" filename="echo0.png" dithering="none" />
+<bitmap id="echo1" filename="echo1.png" dithering="none" />
+<bitmap id="echo2" filename="echo2.png" dithering="none" />
+<bitmap id="echo3" filename="echo3.png" dithering="none" />
+<bitmap id="echo4" filename="echo4.png" dithering="none" />
+<bitmap id="echo5" filename="echo5.png" dithering="none" />
+<bitmap id="echo6" filename="echo6.png" dithering="none" />
+
+<bitmap id="bird0" filename="bird0.png" dithering="none" />
+<bitmap id="bird1" filename="bird1.png" dithering="none" />
+<bitmap id="bird2" filename="bird2.png" dithering="none" />
+<bitmap id="bird3" filename="bird3.png" dithering="none" />
+<bitmap id="bird4" filename="bird4.png" dithering="none" />
+<bitmap id="bird5" filename="bird5.png" dithering="none" />
+<bitmap id="sponge0" filename="sponge0.png" dithering="none" />
+<bitmap id="sponge1" filename="sponge1.png" dithering="none" />
+<bitmap id="sponge2" filename="sponge2.png" dithering="none" />
+<bitmap id="sponge3" filename="sponge3.png" dithering="none" />
+<bitmap id="sponge4" filename="sponge4.png" dithering="none" />
+<bitmap id="sponge5" filename="sponge5.png" dithering="none" />
+<bitmap id="sponge6" filename="sponge6.png" dithering="none" />
+<bitmap id="sponge7" filename="sponge7.png" dithering="none" />
+<bitmap id="sponge7" filename="sponge8.png" dithering="none" />
+<bitmap id="sponge7" filename="sponge9.png" dithering="none" />
+<bitmap id="sponge7" filename="sponge7.png" dithering="none" />
+<bitmap id="sponge8" filename="sponge8.png" dithering="none" />
+<bitmap id="sponge9" filename="sponge9.png" dithering="none" />
+<bitmap id="sponge10" filename="sponge10.png" dithering="none" />
+<bitmap id="sponge11" filename="sponge11.png" dithering="none" />
+<bitmap id="sponge12" filename="sponge12.png" dithering="none" />
+<bitmap id="sponge13" filename="sponge13.png" dithering="none" />
+<bitmap id="sponge14" filename="sponge14.png" dithering="none" />
+<bitmap id="sponge15" filename="sponge15.png" dithering="none" />
+<bitmap id="water0" filename="water0.png" dithering="none" />
+<bitmap id="water1" filename="water1.png" dithering="none" />
+<bitmap id="water2" filename="water2.png" dithering="none" />
+<bitmap id="water3" filename="water3.png" dithering="none" />
+<bitmap id="water4" filename="water4.png" dithering="none" />
+
+</drawables>
+  
